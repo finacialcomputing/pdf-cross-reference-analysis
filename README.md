@@ -3,11 +3,11 @@
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A comprehensive Python system for analyzing cross-references in academic PDFs and creating visual mappings between sections and concepts. This project demonstrates advanced text processing, data visualization, and network analysis techniques for financial and mathematical literature.
+A comprehensive Python system for analyzing cross-references in academic PDFs and creating visual mappings between sections and concepts. This project demonstrates  text processing, data visualization.
 
 ## 🎯 Project Overview
 
-This system extracts and analyzes cross-references from academic PDFs (specifically Data-Driven Modeling literature) and creates two complementary visualizations:
+This system extracts and analyzes cross-references from academic PDFs (use case: Data-Driven Modeling, Cambridge 2025) and creates two complementary visualizations:
 
 1. **📈 Timeline Visualization**: Interactive timeline showing cross-references as curved arrows
 2. **🕸️ Concept Network**: Hierarchical network displaying relationships between key financial/mathematical concepts

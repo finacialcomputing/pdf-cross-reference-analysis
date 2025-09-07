@@ -21,7 +21,7 @@ This system extracts and analyzes cross-references from academic PDFs (use case:
 - **Data Export**: Comprehensive CSV files for further analysis
 - **Clean Architecture**: Well-documented, modular Python code
 
-## 📊 Analysis Results
+## 📊 Analysis Results for the book Probabilistic Data-Driven Modeling (https://www.cambridge.org/core/books/probabilistic-datadriven-modeling/BA499CC1F0904618A7914C6CBAB03A26)
 
 - **279 cross-references** identified and mapped
 - **162 forward references** vs **117 backward references**
